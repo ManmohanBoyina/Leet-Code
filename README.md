@@ -6,6 +6,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0054-spiral-matrix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0118-pascals-triangle) |
+| [0018-4sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0018-4sum) |
 
 
 # Hash Table
@@ -20,6 +21,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0031-next-permutation) |
 # Matrix
 |  |
@@ -34,3 +36,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0118-pascals-triangle) |
+# Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0018-4sum) |
