@@ -1,8 +1,18 @@
-class Solution:
-    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        """
-        Do not return anything, modify nums1 in-place instead.
-        """
-        for i in range(n):
-            nums1[m+i]=nums2[i]
+class Solution(object):
+    def merge(self, nums1, m, nums2, n):
+        i,j=n-1,0
+        while i<m and j<n:
+            if nums1[i]>nums2[j]:
+                nums1[i],nums2[j]=nums2[j],nums1[i]
+                i=i-1
+                j=j+1
+            else:
+                break
+        j=0
+        for i in range(m,len(nums1)):
+            nums1[i]=nums2[j]
+            j+=1
         nums1.sort()
+
+
+        
