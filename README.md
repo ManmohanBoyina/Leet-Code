@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0018-4sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0056-merge-intervals) |
 
 
 # Hash Table
@@ -40,3 +41,4 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0056-merge-intervals) |
