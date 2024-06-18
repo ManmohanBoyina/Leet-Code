@@ -1,14 +1,12 @@
-class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        a = []
+class Solution(object):
+    def merge(self, intervals):
         intervals.sort()
-        if len(intervals) == 1:
-            return intervals
-        for i in range(len(intervals) - 1):
-            if intervals[i][1] >= intervals[i + 1][0]:
-                intervals[i + 1][0] = intervals[i][0]
-                intervals[i + 1][1] = max(intervals[i][1], intervals[i + 1][1])
-            else:
+        a=[]
+        for i in range(len(intervals)):
+            if not a or intervals[i][0]>a[-1][1]:
                 a.append(intervals[i])
-        a.append(intervals[-1])  # Append the last interval
+            else:
+                a[-1][1]=max(intervals[i][1],a[-1][1])
         return a
+
+        
