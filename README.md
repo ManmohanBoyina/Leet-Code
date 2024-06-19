@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0493-reverse-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0493-reverse-pairs) |
 | [0152-maximum-product-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
 
 
 # Hash Table
@@ -33,6 +34,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
 # Simulation
 |  |
 | ------- |
