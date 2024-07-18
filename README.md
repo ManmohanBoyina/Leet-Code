@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
