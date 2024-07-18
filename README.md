@@ -95,9 +95,18 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
