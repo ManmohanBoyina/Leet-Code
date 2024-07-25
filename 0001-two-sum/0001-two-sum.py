@@ -1,11 +1,11 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        mpp = {}
+        a={}
         for i in range(len(nums)):
-            num = nums[i]
-            more_needed = target - num
-            if more_needed in mpp:
-                return [mpp[more_needed], i]
-            mpp[num] = i
-        return [-1, -1]
+            t=nums[i]
+            temp=target-t
+            if temp in a:
+                return [a[temp],i]
+            a[t]=i
+        return -1,-1
         
