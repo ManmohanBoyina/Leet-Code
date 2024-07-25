@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
