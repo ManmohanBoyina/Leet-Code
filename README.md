@@ -81,10 +81,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,4 +133,12 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
