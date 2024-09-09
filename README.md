@@ -81,6 +81,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -145,4 +146,12 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
