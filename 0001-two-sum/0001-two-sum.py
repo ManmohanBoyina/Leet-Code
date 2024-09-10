@@ -1,11 +1,12 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        a={}
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        tt={}
         for i in range(len(nums)):
-            t=nums[i]
-            temp=target-t
-            if temp in a:
-                return [a[temp],i]
-            a[t]=i
+            t=target-nums[i]
+            if t in tt:
+                return i, tt[t]
+            tt[nums[i]]=i
+        print(tt)
         return -1,-1
+            
         
