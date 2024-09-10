@@ -3,37 +3,26 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def addTwoNumbers(self, l1, l2):
-        s=''
-        s1=''
-        while l1.next!=None:
-            s=s+str(l1.val)
-            l1=l1.next
-        while l2.next!=None:
-            s1=s1+str(l2.val)
-            l2=l2.next
-        s=s+str(l1.val)
-        s1=s1+str(l2.val)
-        s1=s1[::-1]
-        s=s[::-1]
-        a=int(s)+int(s1)
-        b=str(a)
-        c=[]
-        b=b[::-1]
-        c=[int(i) for i in b]
-        o=ListNode()
-        h=o
-        h.val=c[0]
-        for i in range(1,len(c)):
-            n=ListNode()
-            n.val=c[i]
-            h.next=n
-            h=h.next
-        return o
-
-
-
-            
-
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        t1=l1
+        t2=l2
+        d=ListNode(-1)
+        current=d
+        carry=0
+        while t1!=None or t2!=None:
+            sum=carry
+            if t1: sum+=t1.val
+            if t2: sum+=t2.val
+            NN=ListNode(sum%10)
+            carry=sum//10
+            current.next=NN
+            current=current.next
+            if t1: t1=t1.next
+            if t2: t2=t2.next
+        if carry:
+            N=ListNode(carry)
+            current.next=N
+        return d.next
         
+
