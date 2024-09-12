@@ -83,6 +83,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -110,6 +112,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -128,6 +131,7 @@
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -191,5 +195,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
