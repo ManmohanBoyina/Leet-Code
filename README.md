@@ -84,6 +84,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -165,11 +166,13 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
