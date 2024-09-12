@@ -84,6 +84,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
@@ -91,6 +92,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Math
