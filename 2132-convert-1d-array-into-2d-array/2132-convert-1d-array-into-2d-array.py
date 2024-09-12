@@ -5,10 +5,6 @@ class Solution:
             return []
         c=0
         for i in range(m):
-            b=[]
-            for j in range(n):
-                b.append(original[c])
-                c+=1
-            a.append(b)
+            a.append(original[i * n:(i * n + n)])
         return a
         
