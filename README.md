@@ -106,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
@@ -117,6 +118,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -168,6 +170,7 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
