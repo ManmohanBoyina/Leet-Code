@@ -12,4 +12,6 @@ class Solution:
             prev=time_to_min(timePoints[i])
             diff=cur-prev
             res=min(res,diff)
+            if res==0:
+                return 0
         return res
