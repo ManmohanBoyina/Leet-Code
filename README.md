@@ -119,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -257,4 +261,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0214-shortest-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
