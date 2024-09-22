@@ -2,7 +2,6 @@ class Solution:
     def findKthNumber(self, n: int, k: int) -> int:
         cur = 1
         k -= 1
-
         while k > 0:
             steps = 0
             first, last = cur, cur
@@ -16,5 +15,4 @@ class Solution:
             else:
                 cur *= 10
                 k -= 1
-
         return cur
