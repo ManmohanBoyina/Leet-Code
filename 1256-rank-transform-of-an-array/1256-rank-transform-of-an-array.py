@@ -1,4 +1,3 @@
-from numpy import *
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
         at=sorted(set(arr))
