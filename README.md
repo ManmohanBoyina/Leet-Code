@@ -207,6 +207,7 @@
 | [0206-reverse-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
+| [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
+| [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
