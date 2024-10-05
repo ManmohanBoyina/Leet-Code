@@ -124,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -149,6 +150,7 @@
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -173,6 +175,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
