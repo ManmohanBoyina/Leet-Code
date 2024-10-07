@@ -187,6 +187,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
@@ -226,6 +227,7 @@
 | [0326-power-of-three](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
@@ -267,6 +269,7 @@
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -334,6 +337,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
