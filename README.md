@@ -161,6 +161,7 @@
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
@@ -249,6 +250,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
