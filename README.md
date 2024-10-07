@@ -223,6 +223,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
 ## Sliding Window
@@ -261,6 +262,7 @@
 | [0002-add-two-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
