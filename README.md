@@ -201,6 +201,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0206-reverse-linked-list) |
