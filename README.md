@@ -159,6 +159,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -181,6 +182,7 @@
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
@@ -288,6 +290,7 @@
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Breadth-First Search
 |  |
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Rolling Hash
 |  |
 | ------- |
