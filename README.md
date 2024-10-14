@@ -88,6 +88,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
@@ -137,6 +138,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -186,6 +188,7 @@
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
@@ -215,6 +218,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -354,6 +358,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -412,6 +417,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
