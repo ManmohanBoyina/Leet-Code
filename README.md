@@ -187,6 +187,7 @@
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
@@ -420,6 +423,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -457,4 +461,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
