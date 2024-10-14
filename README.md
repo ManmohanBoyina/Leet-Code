@@ -93,6 +93,7 @@
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1127-last-stone-weight) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
