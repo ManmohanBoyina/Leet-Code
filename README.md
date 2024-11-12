@@ -106,6 +106,7 @@
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -281,6 +282,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
