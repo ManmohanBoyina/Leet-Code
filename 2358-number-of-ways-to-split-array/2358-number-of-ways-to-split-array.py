@@ -1,14 +1,11 @@
 class Solution:
     def waysToSplitArray(self, nums: List[int]) -> int:
-        prefix=[]
-        sum=0
-        for i in range(len(nums)):
-            sum+=nums[i]
-            prefix.append(sum)
+        total=sum(nums)
         ans=0
-        for i in range(len(prefix)-1):
-            left=prefix[i]
-            right=prefix[-1]-prefix[i]
+        left=0
+        for i in range(len(nums)-1):
+            left+=nums[i]
+            right=total-left
             if left>=right:
                 ans+=1
         return ans
