@@ -193,6 +193,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -234,6 +235,7 @@
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2634-minimum-common-value) |
@@ -356,6 +358,7 @@
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Breadth-First Search
 |  |
