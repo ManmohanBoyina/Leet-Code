@@ -111,6 +111,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-find-the-highest-altitude](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -321,6 +322,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
+| [1833-find-the-highest-altitude](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
