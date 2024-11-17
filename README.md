@@ -98,6 +98,7 @@
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0724-find-pivot-index](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
