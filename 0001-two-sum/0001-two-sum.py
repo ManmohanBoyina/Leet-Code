@@ -1,12 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        tt={}
+        dic = {}
         for i in range(len(nums)):
-            t=target-nums[i]
-            if t in tt:
-                return i, tt[t]
-            tt[nums[i]]=i
-        print(tt)
-        return -1,-1
-            
-        
+            num = nums[i]
+            complement = target - num
+            if complement in dic:
+                return [i, dic[complement]]
+            dic[num] = i
+        return [-1, -1]
