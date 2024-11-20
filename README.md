@@ -93,6 +93,7 @@
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
@@ -155,6 +156,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
@@ -228,6 +230,7 @@
 | [0056-merge-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
