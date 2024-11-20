@@ -110,6 +110,7 @@
 | [1098-largest-unique-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1098-largest-unique-number) |
 | [1127-last-stone-weight](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -172,6 +173,7 @@
 | [1098-largest-unique-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1510-find-lucky-integer-in-an-array) |
