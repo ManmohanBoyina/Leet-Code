@@ -120,6 +120,7 @@
 | [1635-number-of-good-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
@@ -188,6 +189,7 @@
 | [1635-number-of-good-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -364,6 +366,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
