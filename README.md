@@ -116,6 +116,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1547-destination-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1833-find-the-highest-altitude) |
@@ -182,6 +183,7 @@
 | [1547-destination-city](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
@@ -303,6 +305,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -401,6 +404,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
+| [1635-number-of-good-pairs](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3600-find-the-k-th-character-in-string-game-i) |
