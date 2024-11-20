@@ -117,6 +117,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -176,6 +177,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2331-intersection-of-multiple-arrays) |
@@ -289,6 +291,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2331-intersection-of-multiple-arrays) |
