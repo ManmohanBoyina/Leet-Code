@@ -133,6 +133,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
@@ -191,6 +192,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2755-extra-characters-in-a-string) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -356,6 +358,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
