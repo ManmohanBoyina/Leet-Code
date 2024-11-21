@@ -83,6 +83,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0057-insert-interval) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
@@ -405,6 +407,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
