@@ -99,6 +99,7 @@
 | [0238-product-of-array-except-self](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -406,6 +407,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
@@ -546,6 +548,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
