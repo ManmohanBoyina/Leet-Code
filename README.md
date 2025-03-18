@@ -253,6 +253,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1894-merge-strings-alternately](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -309,6 +310,7 @@
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
+| [1894-merge-strings-alternately](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
