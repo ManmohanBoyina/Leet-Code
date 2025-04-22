@@ -468,6 +468,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -494,6 +495,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
@@ -501,12 +503,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
