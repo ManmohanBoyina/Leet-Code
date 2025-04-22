@@ -85,6 +85,7 @@
 | [0015-3sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
