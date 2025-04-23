@@ -483,6 +483,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
@@ -502,6 +503,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
@@ -512,6 +514,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0386-lexicographical-numbers) |
@@ -521,6 +524,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
