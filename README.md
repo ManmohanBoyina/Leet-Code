@@ -274,6 +274,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3636-check-balanced-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3636-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
