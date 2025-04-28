@@ -1,15 +1,20 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
+        se=set(s)
         res=0
-        cs=set(s)
-        for c in cs:
-            count,l=0,0
-            for r in range(len(s)):
-                if s[r]==c:
+        for value in se:
+            count,left=0,0
+            for right in range(len(s)):
+                if s[right]==value:
                     count+=1
-                while (r-l+1)-count>k:
-                    if s[l]==c:
+                while (right-left+1)-count>k:
+                    if s[left]==value:
                         count-=1
-                    l+=1
-                res=max(res,r-l+1)
+                    left+=1
+                res=max(res,right-left+1)
         return res
+
+
+
+
+        
