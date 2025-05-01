@@ -24,5 +24,3 @@ class Solution:
             N=ListNode(carry)
             current.next=N
         return d.next
-        
-
