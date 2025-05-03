@@ -6,4 +6,3 @@ class Solution:
             if ref in a:
                 return [a[ref],i]
             a[nums[i]]=i
-        
