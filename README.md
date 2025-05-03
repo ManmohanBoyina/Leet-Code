@@ -244,6 +244,7 @@
 | [0290-word-pattern](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -502,6 +503,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
@@ -529,6 +531,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -542,6 +545,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0386-lexicographical-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -554,6 +558,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
@@ -608,6 +613,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
@@ -692,5 +698,6 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
