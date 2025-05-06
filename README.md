@@ -232,6 +232,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -480,6 +482,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0090-subsets-ii) |
