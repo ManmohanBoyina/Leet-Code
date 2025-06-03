@@ -508,6 +508,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 ## Bit Manipulation
@@ -536,6 +537,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
@@ -551,6 +553,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
@@ -567,6 +570,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
