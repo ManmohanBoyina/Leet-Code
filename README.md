@@ -539,6 +539,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -553,6 +554,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -568,6 +570,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
 |  |
