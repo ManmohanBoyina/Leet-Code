@@ -543,6 +543,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -578,6 +579,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
@@ -719,4 +721,5 @@
 | [0098-validate-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
