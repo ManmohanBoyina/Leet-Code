@@ -112,6 +112,7 @@
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
@@ -449,6 +450,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -513,6 +515,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -570,6 +573,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
@@ -729,6 +733,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
