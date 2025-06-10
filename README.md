@@ -227,6 +227,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3636-check-balanced-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
