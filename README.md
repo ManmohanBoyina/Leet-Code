@@ -121,6 +121,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [1098-largest-unique-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1098-largest-unique-number) |
 | [1127-last-stone-weight](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -454,6 +455,7 @@
 | [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -519,6 +521,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -577,6 +580,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1484-linked-list-in-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
@@ -737,6 +741,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
