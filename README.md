@@ -143,6 +143,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -311,6 +312,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1777-determine-if-two-strings-are-close) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -624,6 +626,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/ManmohanBoyina/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
