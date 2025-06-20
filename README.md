@@ -244,6 +244,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
@@ -471,6 +472,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
@@ -481,6 +483,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
@@ -538,6 +541,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
