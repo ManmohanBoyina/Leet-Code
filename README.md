@@ -264,6 +264,7 @@
 | [0383-ransom-note](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -348,6 +349,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
@@ -371,6 +373,7 @@
 | [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
