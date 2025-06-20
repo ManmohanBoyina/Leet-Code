@@ -197,6 +197,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -260,6 +261,7 @@
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -375,6 +377,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -703,6 +706,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 ## Heap (Priority Queue)
 |  |
