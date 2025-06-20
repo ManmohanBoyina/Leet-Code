@@ -257,6 +257,7 @@
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
@@ -339,6 +340,7 @@
 | [0283-move-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
