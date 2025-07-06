@@ -1,12 +1,10 @@
 class Solution(object):
     def missingNumber(self, nums):
-        count=collections.Counter(nums)
-        temp=0
-        for i in range(len(nums)):
-            if temp in count.keys():
-                temp+=1
-            else:
-                return temp
-        return temp
+        n=len(nums)
+        tsum=(n*(n+1))//2
+        psum=0
+        for i in range(n):
+            psum+=nums[i]
+        return tsum-psum
 
         
