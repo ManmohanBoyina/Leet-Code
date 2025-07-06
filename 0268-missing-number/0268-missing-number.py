@@ -1,7 +1,12 @@
 class Solution(object):
     def missingNumber(self, nums):
-        n=len(nums)
-        a=(n*(n+1))//2
-        b=sum(nums)
-        return a-b
+        count=collections.Counter(nums)
+        temp=0
+        for i in range(len(nums)):
+            if temp in count.keys():
+                temp+=1
+            else:
+                return temp
+        return temp
+
         
