@@ -105,6 +105,7 @@
 | [0217-contains-duplicate](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +163,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
@@ -193,6 +195,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
@@ -312,6 +315,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0389-find-the-difference) |
@@ -503,6 +507,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
@@ -562,6 +567,7 @@
 | [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
