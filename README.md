@@ -108,6 +108,7 @@
 | [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -708,6 +709,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0346-moving-average-from-data-stream) |
 | [0355-design-twitter](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
@@ -730,6 +732,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0346-moving-average-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0969-number-of-recent-calls) |
@@ -786,6 +789,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
