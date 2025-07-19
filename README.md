@@ -253,6 +253,7 @@
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0168-excel-sheet-column-title) |
@@ -543,6 +544,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
