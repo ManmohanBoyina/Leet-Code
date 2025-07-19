@@ -1,16 +1,17 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        ans=[0]*len(nums1)
-        hash_table = {num: i for i, num in enumerate(nums2)}
-        j=0
-        for num in nums1:
-            i=hash_table[num]+1
-            while i<len(nums2):
-                if num<nums2[i]:
-                    ans[j]=nums2[i]
-                    break
-                i+=1
+        ans=[]
+        stack=[]
+        hash_map={}
+        for i in range(len(nums2)-1,-1,-1):
+            while stack and stack[-1]<=nums2[i]:
+                stack.pop()
+            if not stack:
+                stack.append(nums2[i])
+                hash_map[nums2[i]]=-1
             else:
-                ans[j]=-1
-            j+=1
-        return ans        
+                hash_map[nums2[i]]=stack[-1]
+                stack.append(nums2[i])
+        for num in nums1:
+            ans.append(hash_map[num])
+        return ans
