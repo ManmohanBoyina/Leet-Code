@@ -120,6 +120,7 @@
 | [0724-find-pivot-index](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
@@ -553,6 +554,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -824,4 +826,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
