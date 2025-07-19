@@ -292,6 +292,7 @@
 | [1547-destination-city](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -551,6 +552,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1666-make-the-string-great](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1666-make-the-string-great) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
