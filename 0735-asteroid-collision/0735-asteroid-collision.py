@@ -8,7 +8,9 @@ class Solution:
                     continue
                 elif stack[-1]==-aster:
                     stack.pop()
-                break
+                    break
+                else:
+                    break
             else:
                 stack.append(aster)
         return stack
