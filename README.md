@@ -124,6 +124,7 @@
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
+| [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
@@ -507,6 +508,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
+| [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
@@ -561,6 +563,7 @@
 | [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1666-make-the-string-great](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1666-make-the-string-great) |
