@@ -561,6 +561,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
@@ -725,6 +726,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0303-range-sum-query-immutable) |
