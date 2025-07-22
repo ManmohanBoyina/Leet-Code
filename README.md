@@ -132,6 +132,7 @@
 | [1098-largest-unique-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1098-largest-unique-number) |
 | [1127-last-stone-weight](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -570,6 +571,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1666-make-the-string-great) |
@@ -848,5 +850,6 @@
 | [0496-next-greater-element-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0937-online-stock-span) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
