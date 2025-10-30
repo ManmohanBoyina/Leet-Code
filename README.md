@@ -290,6 +290,7 @@
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -378,6 +379,7 @@
 | [0647-palindromic-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
