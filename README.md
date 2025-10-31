@@ -125,6 +125,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
@@ -347,6 +348,7 @@
 | [0621-task-scheduler](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0807-custom-sort-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0807-custom-sort-string) |
+| [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1098-largest-unique-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1098-largest-unique-number) |
@@ -386,6 +388,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1894-merge-strings-alternately) |
