@@ -124,6 +124,7 @@
 | [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
+| [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
@@ -383,6 +384,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
@@ -514,6 +516,7 @@
 | [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0695-max-area-of-island) |
+| [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1073-number-of-enclaves](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2411-spiral-matrix-iv) |
@@ -523,6 +526,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -618,6 +622,7 @@
 | [0389-find-the-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0800-letter-case-permutation) |
+| [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
