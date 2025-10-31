@@ -127,6 +127,7 @@
 | [0861-flipping-an-image](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
@@ -350,6 +351,7 @@
 | [0807-custom-sort-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1098-largest-unique-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
@@ -390,6 +392,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
