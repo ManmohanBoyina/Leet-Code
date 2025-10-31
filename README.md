@@ -122,6 +122,7 @@
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
@@ -293,6 +294,7 @@
 | [0696-count-binary-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0807-custom-sort-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -380,6 +382,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
