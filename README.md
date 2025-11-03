@@ -129,6 +129,7 @@
 | [0948-sort-an-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
+| [0979-di-string-match](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0979-di-string-match) |
 | [0983-validate-stack-sequences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
@@ -302,6 +303,7 @@
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0961-long-pressed-name) |
+| [0979-di-string-match](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0979-di-string-match) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1304-longest-happy-string) |
@@ -395,6 +397,7 @@
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0961-long-pressed-name) |
+| [0979-di-string-match](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
@@ -721,6 +724,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0979-di-string-match](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0979-di-string-match) |
 | [1304-longest-happy-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ManmohanBoyina/Leet-Code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
