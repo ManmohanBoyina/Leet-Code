@@ -1,15 +1,14 @@
 class Solution(object):
     def judgeSquareSum(self, c):
-        if c==0:
-            return True
-        number=int(math.floor(math.sqrt(c)))
-        for i in range(1,number+1):
-            diff=c-i**2
-            sdiff=math.sqrt(diff)
-            if isinstance(sdiff, float) and sdiff == int(sdiff):
-                sdiff = int(sdiff)
-            if type(sdiff)==int and i**2+sdiff**2==c:
+        i,j=0,int(math.sqrt(c))
+        while i<=j:
+            s=i*i+j*j
+            if s==c:
                 return True
+            if s>c:
+                j-=1
+            else:
+                i+=1
         return False
 
         
