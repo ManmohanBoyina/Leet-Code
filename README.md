@@ -178,6 +178,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
@@ -386,6 +387,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0680-valid-palindrome-ii) |
@@ -558,6 +560,7 @@
 | [0326-power-of-three](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0539-minimum-time-difference) |
+| [0633-sum-of-square-numbers](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1014-k-closest-points-to-origin) |
