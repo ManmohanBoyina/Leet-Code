@@ -301,6 +301,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0961-long-pressed-name) |
 | [1188-brace-expansion-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1188-brace-expansion-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1304-longest-happy-string) |
@@ -393,6 +394,7 @@
 | [0941-sort-array-by-parity](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/1923-sentence-similarity-iii) |
