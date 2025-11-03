@@ -9,9 +9,5 @@ class Solution(object):
             if letter=='D':
                 ans.append(d)
                 d-=1
-        if s[-1]=="D":
-            ans.append(i)
-        else:
-            ans.append(d)
-        return ans
+        return ans + [i]
         
