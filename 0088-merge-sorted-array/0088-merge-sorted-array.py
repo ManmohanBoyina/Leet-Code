@@ -4,8 +4,8 @@ class Solution(object):
         while i<m and j<n:
             if nums1[i]>nums2[j]:
                 nums1[i],nums2[j]=nums2[j],nums1[i]
-                i=i-1
-                j=j+1
+                i-=1
+                j+=1
             else:
                 break
         j=0
@@ -13,6 +13,4 @@ class Solution(object):
             nums1[i]=nums2[j]
             j+=1
         nums1.sort()
-
-
-        
+        return nums1
