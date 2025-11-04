@@ -1,8 +1,8 @@
 class Solution(object):
     def removeElement(self, nums, val):
-        i = 0
-        while i < len(nums):
-            if nums[i] == val:
-                nums.pop(i)
-            else:
-                i += 1
+        k=0
+        for i in range(len(nums)):
+            if nums[i]!=val:
+                nums[i],nums[k]=nums[k],nums[i]
+                k+=1
+        return k
