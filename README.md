@@ -83,6 +83,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0040-combination-sum-ii) |
@@ -375,6 +376,7 @@
 | [0011-container-with-most-water](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0088-merge-sorted-array) |
