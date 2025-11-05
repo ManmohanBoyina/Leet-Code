@@ -1,15 +1,15 @@
-from collections import Counter
-class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        element=nums[0]
-        count=0
-        for i in range(0,len(nums)):
-            if count==0:
-                element=nums[i]
-            if element==nums[i]:
-                count+=1
-            elif element!=nums[i]:
-                count-=1
-        return element
+class Solution(object):
+    def majorityElement(self, nums):
+        count={}
+        res,maxCount=0,0
+        for i in range(len(nums)):
+            if nums[i] not in count:
+                count[nums[i]]=1
+            else:
+                count[nums[i]]+=1
+            if count[nums[i]]>maxCount:
+                maxCount=count[nums[i]]
+                res=nums[i]
+        return res
 
         
