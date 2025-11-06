@@ -91,6 +91,7 @@
 | [0046-permutations](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0059-spiral-matrix-ii) |
@@ -433,6 +434,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -740,6 +742,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/ManmohanBoyina/Leet-Code/tree/master/0435-non-overlapping-intervals) |
