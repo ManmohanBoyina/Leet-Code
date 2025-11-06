@@ -1,11 +1,11 @@
-class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        left=0
-        ans=0
-        for right in range(1,len(prices)):
-            if prices[left]>prices[right]:
-                left=right
+class Solution(object):
+    def maxProfit(self, nums):
+        buy=nums[0]
+        max_profit=0
+        for i in range(1,len(nums)):
+            if nums[i]<buy:
+                buy=nums[i]
             else:
-                diff=prices[right]-prices[left]
-                ans=max(diff,ans)
-        return ans
+                profit=nums[i]-buy
+                max_profit=max(max_profit,profit)
+        return max_profit
